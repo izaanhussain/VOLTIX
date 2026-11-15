@@ -11,23 +11,17 @@ a DC-DC Boost Converter circuit designed in KiCad which it takes an input voltag
 ## PCB 
 <img width="795" height="549" alt="image" src="https://github.com/user-attachments/assets/44c46df7-e41b-40b8-a4f3-240369dac5c2" />
 
-## Design 
+## Design
 
-| Parameter | Objective |
-
+| Parameter | Target |
 |---|---:|
+| Input voltage | 5 V DC |
+| Output voltage | 9 V DC |
+| Maximum output current | 100 mA |
+| Converter IC | MC34063AD |
+| PCB | 2-layer |
+| Board outline | 41 mm × 29 mm |
 
-| Input Voltage | 5V DC |
-
-| Output Voltage | 9V DC |
-
-| Max Output Current | 100mA |
-
-| Circuit IC | MC34063AD |
-
-| Circuit Board | 2 Layer |
-
-| Board Size | 41 x 29mm |
 
 ## Components
 
