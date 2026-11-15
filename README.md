@@ -1,2 +1,2 @@
 # VOLTIX
-adjustable XL6009 DC-DC boost converter
+A compact DC-DC step-up power supply, with a fixed 9V output.
