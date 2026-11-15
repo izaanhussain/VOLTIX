@@ -78,3 +78,7 @@ Before using the fabrication files check that everything is correct on the schem
 ## Manufacturing
 
 The Gerbers have been provided in the Production folder
+## Credits 
+ME AND ONLYY MEE 
+this project was shipped to #embasyy YSWS by hackclub 
+more proejectss comingg Thanks
