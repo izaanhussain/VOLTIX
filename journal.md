@@ -12,16 +12,15 @@ which is kinda good and bad(low hours low payout 😭) and today i learned to us
 just gotta finish the repo i hate this part 😭and there are 0 DRC errors too heh , i cant believe i made ts in 2 hours
 
 ##
-
 <img width="897" height="594" alt="image" src="https://github.com/user-attachments/assets/b32b3a29-c742-41e1-af26-fa3be024e875" />
-##
 
+##
 <img width="722" height="515" alt="image" src="https://github.com/user-attachments/assets/086200fa-e5a5-4c96-99fd-41a8f165f0be" />
-##
 
+##
 <img width="926" height="572" alt="image" src="https://github.com/user-attachments/assets/4f942223-b8dc-43ce-9320-d145f256941d" />
-##
 
+##
 <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/6d154ef7-be1d-4fed-b911-669e832ee275" />
 
 
