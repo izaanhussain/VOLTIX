@@ -1,0 +1,13 @@
+Reference,Quantity,Value,Footprint,Description
+U1,1,MC34063AD,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,DC-DC switching regulator
+L1,1,120uH,Inductor_SMD:L_12x12mm_H8mm,Power inductor
+D1,1,1N5819,Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal,Schottky diode
+R1,1,2.2k,Resistor_SMD:R_0805_2012Metric,Feedback resistor
+R2,1,13.7k,Resistor_SMD:R_0805_2012Metric,Feedback resistor
+R3,1,180R,Resistor_SMD:R_1206_3216Metric,Driver resistor
+R4,1,0.68R,Resistor_SMD:R_2512_6332Metric,Current-sense resistor
+C1,1,100uF,Capacitor_THT:CP_Radial_D8.0mm_P3.50mm,Input capacitor
+C2,1,330uF,Capacitor_THT:CP_Radial_D10.0mm_P5.00mm,Output capacitor
+C3,1,430pF,Capacitor_SMD:C_0805_2012Metric,Timing capacitor
+J1,1,INPUT_5V,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,2-pin input connector
+J2,1,OUTPUT_9V,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,2-pin output connector
