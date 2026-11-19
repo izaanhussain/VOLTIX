@@ -71,13 +71,11 @@ Download or Clone the project.
 
 Open `PCB/VOLTIX.kicad_pro`.
 
-From the project manager open either the Schematic or PCB.
-
-Before using the fabrication files check that everything is correct on the schematic and PCB. Run ERC and DRC checks using your installed KiCad version.
+From the project manager open the Schematic or PCB.
 
 ## Manufacturing
 
-The Gerbers have been provided in the Production folder
+The Gerbers.zip is in the Production folder
 ## Credits 
 ME AND ONLYY MEE 
 this project was shipped to #embasyy YSWS by hackclub 
